@@ -15,15 +15,25 @@ Dataset Link: [Kaggle](https://www.kaggle.com/datasets/shubhambathwal/flight-pri
 Dataset Features
 
 Airline: Name of the airline firm (categorical).
+
 Flight: Flight code of the aircraft.
+
 Source City: City where the flight departs (categorical).
+
 Departure Time: Time intervals categorized into bins.
+
 Stops: Number of stops between source and destination cities.
+
 Arrival Time: Time intervals categorized into bins.
+
 Destination City: City where the aircraft lands (categorical).
+
 Class: Total number of hours needed to travel between cities (permanent).
+
 Duration: Total number of hours needed to travel between cities (permanent).
+
 Days Left: Derived feature (trip date subtracted from booking date).
+
 Price: Ticket price (target variable).
 
 Power BI Visualization Dashboard
