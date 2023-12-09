@@ -1,11 +1,11 @@
 # India-Airlines-Ticket-Price-Analysis
 India Airlines Ticket Price Analysis with Power BI &amp; Python 
 
-Objective
+**Objective******
 
 As an aviation enthusiast, I've undertaken an exploratory data analysis of Indian airline ticket prices. The aviation market, having faced rock-bottom ticket prices during the peak of the Covid-19 pandemic, is now recovering. However, recent geopolitical events and rising ATF prices have led to soaring ticket prices. This project aims to understand the factors influencing ticket prices in India. The analysis covers aspects such as the number of flights available across India, ticket availability across different classes, price range across different classes, and more.
-
-Check out the project .
+**
+Check out the project .******
 
 About the Dataset
 The dataset, sourced from Kaggle, is considered secondary data. It comprises details from the "Easemytrip" website, offering flight booking alternatives between India's top 6 metro areas. The cleaned dataset consists of 11 characteristics and 300,261 data points, gathered in two stages: business class and economy class tickets. The data spans 50 days, from February 11 to March 31, 2022.
@@ -36,11 +36,11 @@ Days Left: Derived feature (trip date subtracted from booking date).
 
 Price: Ticket price (target variable).
 
-Power BI Visualization Dashboard
+**Power BI Visualization Dashboard******
 
 Click to view the Power BI Dashboard. The dashboard provides a quick overview of ticket prices between different cities, flying with different airlines in different classes, along with flight duration.
 
-Conclusion
+**Conclusion******
 
 'Air Asia' offers the cheapest flight tickets in Economy class, while 'Air India' is the cheapest in Business class.
 
