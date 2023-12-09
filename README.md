@@ -33,10 +33,18 @@ Click to view the Power BI Dashboard. The dashboard provides a quick overview of
 Conclusion
 
 'Air Asia' offers the cheapest flight tickets in Economy class, while 'Air India' is the cheapest in Business class.
+
 Booking tickets 3-7 weeks before travel is more economical than buying within 3 weeks, as prices rise rapidly.
+
 Ticket prices grow linearly with the duration of the flight, peaking at 20 hours, with some outliers.
+
 Flights departing late at night and arriving early morning or late at night are the cheapest.
+
 Flight prices increase with an increase in the number of stops.
+
+
 Delhi offers the cheapest flights, while Hyderabad is the most expensive city to fly to.
+
 Vistara had the highest number of flights, accounting for 42.60% across all 6 airlines in India.
+
 For detailed insights, refer to the Power BI Dashboard. Feel free to explore the code and contribute to the analysis. Feedback and suggestions are always welcome!
